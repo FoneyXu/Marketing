@@ -1,0 +1,20 @@
+#MyEclipse Hibernate Properties
+#Tue Sep 19 09:26:18 CST 2017
+genBasicCompId=true
+sessionFactoryName=org.seac.foney.model.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=true
+reSettingsFile=
+configFile=/ElectronSteelyardServer/src/main/java/org/seac/foney/model/hibernate.cfg.xml
+createConfigFile=true
